@@ -10,3 +10,6 @@ each face will have 2 triangles, lets define them clockwise.
 probably want to normalize the screen space where 0,0 is in the middle
 
 try your best to understand the projection maths but if you cant thats ok.
+
+I should probably start with figuring out how to draw a line between points so i can draw a triangle in th
+terminal.
